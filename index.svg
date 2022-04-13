@@ -21,7 +21,7 @@
                     border: 0; /* For IE */
                     /* Aspect ratio of image, gives initial dimension to prevent text moving down once image is loaded */
                     /* When changing logo, change this also */
-                    aspect-ratio: 125 / 50;
+                    aspect-ratio: 1250 / 938;
                 }
                 #main {
                     vertical-align: middle;
@@ -29,7 +29,7 @@
                 }
                 /* Progress bar */
                 #progress {
-                    width: 45%; /* Bar width */
+                    width: 80%; /* Bar width */
                     margin: 0 auto;
                     border-radius: 10px; /* Roundness */
                     background-color: #a8a8a8; /* Background colour */
@@ -38,7 +38,7 @@
                 }
                 #fill {
                     padding: 2px 0;
-                    background-color: #00b98b; /* Fill colour */
+                    background-color: #000; /* Fill colour */
                     width: 80%; /* Bar percentage, change text below also */
                     border-radius: 25px; /* Roundness */
                     animation: proanimate 2s;
