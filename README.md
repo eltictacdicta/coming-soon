@@ -10,4 +10,4 @@ Coming Soon es una página simple, animada y responsiva de "pagina en construcci
 
 Es una traducción/fork de [el proyecto coming soon de YC](https://github.com/YC/coming-soon)
 
-<img src="index.svg" width="960" height="540" />
+<img src="captura-de-pantalla.jpg" width="960" height="540" />
